@@ -2,7 +2,7 @@
 
 ### Dia 0: Septiembre 16, 2018 
 
-**Progreso de hoy**: Fixed CSS, worked on canvas functionality for the app.
+**Progreso de hoy**: 
 
 **Comentarios:** 
 
