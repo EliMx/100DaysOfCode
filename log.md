@@ -13,3 +13,10 @@
 
 **Comentarios:** Hoy realmente pense que no tendria tiempo para esto entre la escuela y eso pero lo logre, y ahora estoy añadiendo estilo a mi proyecto. Aunque en realidad creo que debo mejorar mi organizacion con los identificadores como a y p y h1 etc. Siento que es facil perderse.
 **Link al proyecto:** [Build a Tribute Page](https://codepen.io/eli-perez-/project/full/XaNyYW/)
+
+### Dia 2: Septiembre 18, 2018 
+
+**Progreso de hoy**: Aprendi a usar clases y selectores del CSS para el cambio de fuente e importar fuentes
+
+**Comentarios:** Realmente siento que hoy no avance mucho y todavia tengo que aprender a estilizar la imagen para el centro, en vez de aprender eso estuve en una mini guerra con una fuente.
+**Link al proyecto:** [Build a Tribute Page](https://codepen.io/eli-perez-/project/full/XaNyYW/)
