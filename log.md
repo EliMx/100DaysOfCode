@@ -32,12 +32,20 @@ ________________________________________________________________________________
 **Progreso de hoy**: html y css empezando segundo proyecto
 **Comentarios:** Empece con mi segundo proyecto y lo primero que hice fue colocar todo lo que se que puedo hacer en html asi ya forme una estructura pero me encontre en que todavia no se poner atributos asi que ... me puse a jugar un poco en css
 
-**Link al proyecto:** [Survey Form](htthttps://codepen.io/eli-perez-/pen/pOGZyq)
+**Link al proyecto:** [Survey Form](https://codepen.io/eli-perez-/pen/pOGZyq)
 ______________________________________________________________________________________________________________
 ### Dia 5: Septiembre 21, 2018 
 
 **Progreso de hoy**: Estuve trabajando en seprara el codigo de html y css
 
 **Comentarios:** Al ir avanzando en el proyecto me di cuenta que tenia muchos errores comparando con mi primer proyecto en referente a la estructura y como separar uno del otro, hoy siento que entendi mas las estructuras y como trabajar con las clases de css
-**Link al proyecto:** [Survey Form](htthttps://codepen.io/eli-perez-/pen/pOGZyq)
+**Link al proyecto:** [Survey Form](https://codepen.io/eli-perez-/pen/pOGZyq)
 ______________________________________________________________________________________________________________
+### Dia 6: Septiembre 22, 2018 
+
+**Progreso de hoy**: Estuve trabajando en java con estructura de datos LinkedList,Stack y Queue
+
+**Comentarios:** Hoy no quise continuar con mi otro trabajo porque no me concentraba asi que estuve trabajando en un mini proyecto, el punto es entregar un agrs[0] y que me de los files y directorys en ese path utilizando las estructuras.
+**Link al proyecto:** [Lectura de carpetas](//)
+______________________________________________________________________________________________________________
+
