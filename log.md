@@ -48,4 +48,18 @@ ________________________________________________________________________________
 **Comentarios:** Hoy no quise continuar con mi otro trabajo porque no me concentraba asi que estuve trabajando en un mini proyecto, el punto es entregar un agrs[0] y que me de los files y directorys en ese path utilizando las estructuras.
 **Link al proyecto:** [Lectura de carpetas](//)
 ______________________________________________________________________________________________________________
+### Dia 7: Septiembre 23, 2018 
+
+**Progreso de hoy**: Estuve trabajando en java con estructura de datos Queue y metodos
+
+**Comentarios:** Segui trabajando en comprender como se trabaja con Queue y llenarlo apartir de la lectura de carpetas en el escritorio de la PC, obtener files ingresar los Paths a una LinkedList y llenar un Queue 
+**Link al proyecto:** [Lectura de carpetas](//)
+______________________________________________________________________________________________________________
+### Dia 8: Septiembre 24, 2018 
+
+**Progreso de hoy**: Hoy trabaje con html y css con metodos
+
+**Comentarios:** Sin animo de hacer nada muy serio vi un tutorial en youtube de como hacer la barra de reacciones de facebook asi que yo lo complemente agregando una reaccion extra 
+**Link al proyecto:** [Facebook Reactions](https://codepen.io/eli-perez-/full/xaNvgG/)
+______________________________________________________________________________________________________________
 
